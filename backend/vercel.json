@@ -12,5 +12,8 @@
             "dest": "/"
         }
     ],
+    "limits": {
+        "maxPayload" : "500mb"
+    }
    
 }
